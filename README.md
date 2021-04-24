@@ -25,3 +25,6 @@
 
 ![Hyardlung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyardlung&count_private=true&show_icons=true&theme=darcula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyardlung&theme=darcula&layout=compact)
+---
+#### 🎧 Сейчас я слушаю:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w6jdb230ctcppu0pgxum8f4po&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=w6jdb230ctcppu0pgxum8f4po&redirect=true)
