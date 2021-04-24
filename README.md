@@ -23,4 +23,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/Hyardlung)
 
-![Hyardlung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyardlung&count_private=true&show_icons=true&theme=calm) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyardlung&layout=compact)
+![Hyardlung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyardlung&count_private=true&show_icons=true&theme=darcula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyardlung&theme=darcula&layout=compact)
