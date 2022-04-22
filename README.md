@@ -7,7 +7,7 @@ At the moment I live in Krasnoyarsk.
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Dmitry Volkov-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dmitry-volkov-268ab9187?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlQ9KV0fvR3qu%2FEQlirJH4g%3D%3D) [<img alt="Telegram" src="https://img.shields.io/badge/@hyardlung-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/Hyardlung) [<img alt="Instagram" src="https://img.shields.io/badge/hyardlung-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>](https://instagram.com/hyardlung) [<img alt="Gmail" src="https://img.shields.io/badge/hyardlung@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:hyardlung@gmail.com) 
 
 
-- 🔭 Working in Sliday 🇳🇿
+- 🔭 Working at Sliday 🇳🇿
 - 🌱 Getting to grips with Vue and Quasar (be damned).
 - ⚡ Fun fact about me: give me a stock mechanical keyboard, a grease kit, all the associated tools, and lock me in a room with access to the fridge and toilet. When you return 12 hours later, you'll probably find me in the same position, still picking at its innards with passion 😅. Modding mechanical machines is a passion of mine as of late.
 ---
@@ -24,6 +24,3 @@ At the moment I live in Krasnoyarsk.
 
 ![Hyardlung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyardlung&count_private=true&show_icons=true&theme=darcula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyardlung&theme=darcula&layout=compact)
----
-### 🎧 Right now I'm listening:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w6jdb230ctcppu0pgxum8f4po&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=w6jdb230ctcppu0pgxum8f4po&redirect=true)
