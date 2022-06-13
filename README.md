@@ -20,7 +20,7 @@ At the moment I live in Krasnoyarsk.
 
 ### 📈 My stats (could be better, all work in gitlab): 
 
-![Profile views](https://gpvc.arturio.dev/Hyardlung)
+![Profile views](https://gpvc.arturio.dev/Hyardlung) [![wakatime](https://wakatime.com/badge/user/a9634638-8468-42ec-8c59-09d651f6ebd7.svg)](https://wakatime.com/@a9634638-8468-42ec-8c59-09d651f6ebd7)
 
 ![Hyardlung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyardlung&count_private=true&show_icons=true&theme=darcula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyardlung&theme=darcula&layout=compact)
