@@ -1,8 +1,7 @@
 ### Hi, good to see you :raised_hands:
 ---
 Welcome to my page!
-I'm Dmitriy, frontend developer from Khakassia.
-At the moment I live in Krasnoyarsk.
+I'm Dmitriy, frontend developer.
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Dmitry Volkov-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dmitry-volkov-268ab9187?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlQ9KV0fvR3qu%2FEQlirJH4g%3D%3D) [<img alt="Telegram" src="https://img.shields.io/badge/@hyardlung-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/Hyardlung) [<img alt="Instagram" src="https://img.shields.io/badge/hyardlung-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>](https://instagram.com/hyardlung) [<img alt="Gmail" src="https://img.shields.io/badge/hyardlung@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:hyardlung@gmail.com) 
 
