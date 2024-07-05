@@ -5,10 +5,7 @@ I'm Dmitry, frontend developer.
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Dmitry Volkov-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dmitry-volkov-268ab9187?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlQ9KV0fvR3qu%2FEQlirJH4g%3D%3D) [<img alt="Telegram" src="https://img.shields.io/badge/@hyardlung-2CA5E0?style=flat&logo=telegram&logoColor=white" />](https://t.me/Hyardlung) [<img alt="Instagram" src="https://img.shields.io/badge/hyardlung-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white"/>](https://instagram.com/hyardlung) [<img alt="Gmail" src="https://img.shields.io/badge/hyardlung@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:hyardlung@gmail.com) 
 
-
-- 🔭 Working at Sliday 🇳🇿
-- 🌱 Trying to learn reScript.
-- ⚡ Fun fact about me: give me a stock mechanical keyboard, a grease kit, all the associated tools, and lock me in a room with access to the fridge and toilet. When you return 12 hours later, you'll probably find me in the same position, still picking at its innards with passion 😅. Modding mechanical machines is a passion of mine as of late.
+Working at Sliday 🇳🇿
 ---
 ### 💻 My stack:
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img alt="Quasar" src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
